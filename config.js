@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Аймери",
+    valentineName: "Никита",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Я нравлюсь тебе?",                                    // First interaction
             yesBtn: "Да",                                             // Text for "Yes" button
             noBtn: "Нет",                                               // Text for "No" button
-            secretAnswer: "Ты мнне не нравишься, я тебя люблю! ❤️"           // Secret hover message
+            secretAnswer: "Ты мне не нравишься, я тебя люблю! ❤️"           // Secret hover message
         },
         second: {
             text: "Как сильно ты меня любишь?",                          // For the love meter
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "БОЖЕ МОЙ, НАСТОЛЬКО СИЛЬНО?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "УХТЫЫЫ мне очень приятно! 🚀💝",              // Shows when they go past 1000%
+        normal: "Миленько! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
